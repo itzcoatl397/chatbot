@@ -1,0 +1,519 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712934461@s.whatsapp.net',
+    fromMe: false,
+    id: '6851B1F2E7E63D648166D1F73A4F1C95',
+    participant: undefined
+  },
+  messageTimestamp: 1707249194,
+  pushName: 'itzcoatl3b',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hols',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hols',
+  from: '5217712934461'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712934461@s.whatsapp.net',
+    fromMe: false,
+    id: 'EB14DCD0DBE71B4AB5A9A0D050C2738D',
+    participant: undefined
+  },
+  messageTimestamp: 1707249198,
+  pushName: 'itzcoatl3b',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5217712934461'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25a6f128-45da-4fa3-9e0e-f7d1bce3b813',
+  keyword: 'key_85db78bc-ff64-43ea-92d4-789dd9c8f409',
+  answer: 'Somos una INSTITUCION EDUCTIVA especializada en GASTRONOMÍA y TURISMO 🙋‍♀️',
+  options: {
+    media: 'https://i.postimg.cc/sX9XXW87/log.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b232aa1f117cf0126f5393c8f28f045'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4da93b91-8206-46ea-a41d-b9ff81aebefd',
+  keyword: 'ans_25a6f128-45da-4fa3-9e0e-f7d1bce3b813',
+  answer: 'Nuestra Licenciatura cuenta con validez oficial ante la S.E.P. REVOE:  SSEMSyS 1456101. Esto significa que tu título tendrá reconocimiento a nivel nacional e internacional.  ~2 LICENCIATURAS EN 1~ 🧑🏻‍🍳🏤🧑‍🍳',
+  options: {
+    media: 'https://i.postimg.cc/pTxkTB93/55562964-c59d-4e5a-a2a2-13dad66def8a.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '84a4de8e96021561b567fcc7f0faf953'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0158d221-b55b-40a1-b382-2c2a811e3672',
+  keyword: 'ans_4da93b91-8206-46ea-a41d-b9ff81aebefd',
+  answer: 'contamos con diferentes programas educativos \n' +
+    '1️⃣ *Doble Licenciatura en Gastronomía   y turismo* \n' +
+    '2️⃣ *Chef Profecional  Informes  Para Diplomado en chef  Profecional*\n' +
+    '3️⃣ *ESPECIALIDAD EN GASTRONOMÍA INTERNACIONA Informes de la ESPECIALIDAD EN GASTRONOMÍA INTERNACIONAL* \n' +
+    '4️⃣ *MAESTRIA EN ADMINISTRACIÓN Y DIRECCION TURISTICA*\n' +
+    '5️⃣ *BACHILLERATO*',
+  options: {
+    media: 'https://i.postimg.cc/mk0hVmGr/48b3ac39-d3f5-4159-aa28-1acb2cc7697b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88415d1247c2c2468f2f0d6ba10ab354'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712934461@s.whatsapp.net',
+    fromMe: false,
+    id: '2753F4871D4E56D67B38810E2D6E3E9F',
+    participant: undefined
+  },
+  messageTimestamp: 1707249207,
+  pushName: 'itzcoatl3b',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5217712934461'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_343e7609-99fd-4f44-b96a-644a30a15f7a',
+  keyword: 'key_690aeab4-235d-4041-929a-1b67240651ad',
+  answer: 'Chef Profecional 👉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '99454f6265c01476c0fc762023fc50b6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c6592d80-f401-4efb-89d0-25c8264c2405',
+  keyword: 'ans_343e7609-99fd-4f44-b96a-644a30a15f7a',
+  answer: '1️⃣ Documentos \n2️⃣ Plan de Estrudio\n3️⃣ Costos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'df3b0821f480e94df46b32b9e5003f65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712934461@s.whatsapp.net',
+    fromMe: false,
+    id: '964D1F35CF7F398D4046726BAED3DEB5',
+    participant: undefined
+  },
+  messageTimestamp: 1707249210,
+  pushName: 'itzcoatl3b',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5217712934461'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_92b413a3-6187-47b8-91ab-126f303c3a73',
+  keyword: 'key_d3349e36-8053-4785-8910-8cb1b1c1f1fc',
+  answer: '- Nuestra Licenciatura tiene una duración de 3 años                             Lo que te permitirá obtener un título🧑🏼‍🍳🏤😱 universitario en un tiempo reducido y comenzar tu carrera profesional rápidamente.🧑🏻‍🍳👩‍💻.             PLAN CUATRIMESTRAL',
+  options: {
+    media: 'https://i.postimg.cc/rwst6Ppm/b02bca63-73fc-4931-9f79-b7435f0d2ce9.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1353328173f99b47de7dfc2ad89074ac'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217711280455@s.whatsapp.net',
+    fromMe: false,
+    id: '3A453B6CEED75D5FC851',
+    participant: undefined
+  },
+  messageTimestamp: 1707249220,
+  pushName: 'Valeria Gómez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok, gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok, gracias',
+  from: '5217711280455'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217715553770@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD3487EF8939C0CEA1D',
+    participant: undefined
+  },
+  messageTimestamp: 1707249668,
+  pushName: 'Jaque',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si está bien gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si está bien gracias',
+  from: '5217715553770'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215522444246@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD9D6A4E606A181A04EB0B2F4F9622B2',
+    participant: undefined
+  },
+  messageTimestamp: 1707249874,
+  pushName: 'Lynlucz👩🏻‍🍳🧁✨💇🏽‍♀️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola buena tarde',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola buena tarde',
+  from: '5215522444246'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25a6f128-45da-4fa3-9e0e-f7d1bce3b813',
+  keyword: 'key_85db78bc-ff64-43ea-92d4-789dd9c8f409',
+  answer: 'Somos una INSTITUCION EDUCTIVA especializada en GASTRONOMÍA y TURISMO 🙋‍♀️',
+  options: {
+    media: 'https://i.postimg.cc/sX9XXW87/log.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b232aa1f117cf0126f5393c8f28f045'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4da93b91-8206-46ea-a41d-b9ff81aebefd',
+  keyword: 'ans_25a6f128-45da-4fa3-9e0e-f7d1bce3b813',
+  answer: 'Nuestra Licenciatura cuenta con validez oficial ante la S.E.P. REVOE:  SSEMSyS 1456101. Esto significa que tu título tendrá reconocimiento a nivel nacional e internacional.  ~2 LICENCIATURAS EN 1~ 🧑🏻‍🍳🏤🧑‍🍳',
+  options: {
+    media: 'https://i.postimg.cc/pTxkTB93/55562964-c59d-4e5a-a2a2-13dad66def8a.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '84a4de8e96021561b567fcc7f0faf953'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0158d221-b55b-40a1-b382-2c2a811e3672',
+  keyword: 'ans_4da93b91-8206-46ea-a41d-b9ff81aebefd',
+  answer: 'contamos con diferentes programas educativos \n' +
+    '1️⃣ *Doble Licenciatura en Gastronomía   y turismo* \n' +
+    '2️⃣ *Chef Profecional  Informes  Para Diplomado en chef  Profecional*\n' +
+    '3️⃣ *ESPECIALIDAD EN GASTRONOMÍA INTERNACIONA Informes de la ESPECIALIDAD EN GASTRONOMÍA INTERNACIONAL* \n' +
+    '4️⃣ *MAESTRIA EN ADMINISTRACIÓN Y DIRECCION TURISTICA*\n' +
+    '5️⃣ *BACHILLERATO*',
+  options: {
+    media: 'https://i.postimg.cc/mk0hVmGr/48b3ac39-d3f5-4159-aa28-1acb2cc7697b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88415d1247c2c2468f2f0d6ba10ab354'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217711280455@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4AC728EAD11F63FFD0',
+    participant: undefined
+  },
+  messageTimestamp: 1707249936,
+  pushName: 'Valeria Gómez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Disculpe y me podría proporcionar mi matrícula por favor?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Disculpe y me podría proporcionar mi matrícula por favor?',
+  from: '5217711280455'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217715553770@s.whatsapp.net',
+    fromMe: false,
+    id: '3A93FEA217D58AFD10CD',
+    participant: undefined
+  },
+  messageTimestamp: 1707250088,
+  pushName: 'Jaque',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-714f759f-e734-4e73-89fc-33254778155c?ccb=9-4&oh=01_AdQkMG6KpyVMWR-GPtn5M0B7jQzenySUSecT-3QKDhnzyA&oe=65EA18A6&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 1090,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m235/up-oil-image-714f759f-e734-4e73-89fc-33254778155c?ccb=9-4&oh=01_AdQkMG6KpyVMWR-GPtn5M0B7jQzenySUSecT-3QKDhnzyA&oe=65EA18A6&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 13093,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__ae0b1246-8059-436a-80ab-bacf0c204f02',
+  from: '5217715553770'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217715553770@s.whatsapp.net',
+    fromMe: false,
+    id: '3A040CC4B781B91C8761',
+    participant: undefined
+  },
+  messageTimestamp: 1707250124,
+  pushName: 'Jaque',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-6d3d40a6-eca4-41a3-8d47-5f5798393ad4?ccb=9-4&oh=01_AdRMalFOlCoeiHrko7ZlH5gjQeDcs9-ka8hGw-3aeu3pig&oe=65EA1D80&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 1149,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m235/up-oil-image-6d3d40a6-eca4-41a3-8d47-5f5798393ad4?ccb=9-4&oh=01_AdRMalFOlCoeiHrko7ZlH5gjQeDcs9-ka8hGw-3aeu3pig&oe=65EA1D80&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 16795,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__50b2ab0b-604e-46ab-9895-e135d93035ac',
+  from: '5217715553770'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217711280455@s.whatsapp.net',
+    fromMe: false,
+    id: '3A49489192BB817D1B6D',
+    participant: undefined
+  },
+  messageTimestamp: 1707251869,
+  pushName: 'Valeria Gómez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Okey, gracias',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Okey, gracias',
+  from: '5217711280455'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217711280455@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5090147F9D18EA5B8A',
+    participant: undefined
+  },
+  messageTimestamp: 1707251874,
+  pushName: 'Valeria Gómez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Está bien, gracias',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Está bien, gracias',
+  from: '5217711280455'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215522444246@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2A40F0D1BE1F739D4E2A5E671C1D3BE',
+    participant: undefined
+  },
+  messageTimestamp: 1707252884,
+  pushName: 'Lynlucz👩🏻‍🍳🧁✨💇🏽‍♀️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya realice mi pago de colegiatura  quería saber si ya me lo confirmaron',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya realice mi pago de colegiatura  quería saber si ya me lo confirmaron',
+  from: '5215522444246'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215522444246@s.whatsapp.net',
+    fromMe: false,
+    id: '96FA6FD2EF46492252E056CC42732DE8',
+    participant: undefined
+  },
+  messageTimestamp: 1707252888,
+  pushName: 'Lynlucz👩🏻‍🍳🧁✨💇🏽‍♀️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo hice el día de ayer',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lo hice el día de ayer',
+  from: '5215522444246'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215522444246@s.whatsapp.net',
+    fromMe: false,
+    id: '2546C73E29498115E90F066BD60D3905',
+    participant: undefined
+  },
+  messageTimestamp: 1707253067,
+  pushName: 'Lynlucz👩🏻‍🍳🧁✨💇🏽‍♀️',
+  broadcast: false,
+  message: Message {
+    conversation: 'También  quería saber si el día sábado  me pueden dar mi recibo de que ya esta pagado el mes',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'También  quería saber si el día sábado  me pueden dar mi recibo de que ya esta pagado el mes',
+  from: '5215522444246'
+}
